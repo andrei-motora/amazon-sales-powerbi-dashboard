@@ -37,16 +37,17 @@ These issues required data enrichment and logical assumptions to avoid misleadin
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview.png)
+![Overview](images/overview.png)
 
 ### Marketplace & Operations
-![Marketplace & Operations](marketplace.png)
+![Marketplace & Operations](images/marketplace.png)
 
 ### Product Performance
-![Product Performance](product.png)
+![Product Performance](images/product.png)
 
 ### Customer Behiavour
-![Product Deep-Dive](customer-behiavour.png)
+![Customer Behiavour](images/customer-behiavour.png)
+
 
 
 ## Files
