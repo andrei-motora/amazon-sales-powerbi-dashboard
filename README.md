@@ -34,6 +34,21 @@ These issues required data enrichment and logical assumptions to avoid misleadin
 - Product Performance
 - Product Deep-Dive
 
+## Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Marketplace & Operations
+![Marketplace & Operations](marketplace.png)
+
+### Product Performance
+![Product Performance](product.png)
+
+### Product Deep-Dive
+![Product Deep-Dive](customer-behiavour.png)
+
+
 ## Files
 - Project documentation (PDF)
 - Dashboard screenshots
