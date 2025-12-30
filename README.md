@@ -45,7 +45,7 @@ These issues required data enrichment and logical assumptions to avoid misleadin
 ### Product Performance
 ![Product Performance](product.png)
 
-### Product Deep-Dive
+### Customer Behiavour
 ![Product Deep-Dive](customer-behiavour.png)
 
 
