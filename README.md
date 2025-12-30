@@ -7,7 +7,7 @@ The goal was to transform incomplete and imperfect e-commerce data into manageme
 The dashboard focuses on revenue, profitability, marketplace performance, and product behavior.
 
 ## Project Documentation
-📄 [Download full project documentation (PDF)](docs/Documentation of project.pdf)
+📄 [Download full project documentation (PDF)](docs/Project_Documentation.pdf)
 
 ## Business Questions Addressed
 - Which marketplaces generate the highest revenue and profit?
